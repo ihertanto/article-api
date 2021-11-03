@@ -28,7 +28,7 @@
     "redis": "^2.8.0",
     "sharp": "^0.22.1",
     "util": "^0.12.1",
-    "validator": "^11.0.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "env-cmd": "^9.0.3",
